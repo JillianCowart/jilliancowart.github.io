@@ -1,0 +1,281 @@
+
+        body {
+          background-image: url('trail.png');
+          background-repeat: no-repeat;
+          background-attachment: fixed;
+          background-size: cover;
+        }
+        h1 {
+            text-align: center;
+            color: darkgreen;
+            background-color: white;
+            padding: 25px;
+            position: absolute;
+            top: -15px;
+            left: 0px;
+            font-size: 70px;
+            width: 2515px;
+            height: 80px;
+        }
+        .info-box-1{
+            width: 315px;
+            height: 315px;
+            background-color: darkgreen;
+            position: absolute;
+            top: 230px;
+            left: 450px;
+            padding: 15px;
+            border: 10px solid white;
+            text-align: center;
+        }
+        .info-box-1 img {
+            width: 115px;
+            height: 115px;
+        }
+        .info-box-2{
+            width: 315px;
+            height: 315px;
+            background-color: darkgreen;
+            position: absolute;
+            top: 480px;
+            left: 1750px;
+            padding: 15px;
+            border: 10px solid white;
+            text-align: center;
+        }
+        .info-box-2 img {
+            width: 100px;
+            height: 100px;
+        }
+        .info-box-3{
+            width: 315px;
+            height: 315px;
+            background-color: darkgreen;
+            position: absolute;
+            top: 755px;
+            left: 450px;
+            padding: 15px;
+            border: 10px solid white;
+            text-align: center;
+        }
+        .info-box-3 img {
+            width: 115px;
+            height: 115px;
+        }
+        .info-box-4{
+            width: 315px;
+            height: 315px;
+            background-color: darkgreen;
+            position: absolute;
+            top: 1005px;
+            left: 1750px;
+            padding: 15px;
+            border: 10px solid white;
+            text-align: center;
+        }
+        .info-box-4 img {
+            width: 115px;
+            height: 115px;
+        }
+        .info-box-5{
+            width: 315px;
+            height: 315px;
+            background-color: darkgreen;
+            position: absolute;
+            top: 1280px;
+            left: 450px;
+            padding: 15px;
+            border: 10px solid white;
+            text-align: center;
+        }
+        .info-box-5 img {
+            width: 115px;
+            height: 115px;
+        }
+        .info-box-6{
+            width: 315px;
+            height: 315px;
+            background-color: darkgreen;
+            position: absolute;
+            top: 1530px;
+            left: 1750px;
+            padding: 15px;
+            border: 10px solid white;
+            text-align: center;
+        }
+        .info-box-6 img {
+            width: 110px;
+            height: 110px;
+        }
+        .info-box-7{
+            width: 315px;
+            height: 315px;
+            background-color: darkgreen;
+            position: absolute;
+            top: 1805px;
+            left: 450px;
+            padding: 15px;
+            border: 10px solid white;
+            text-align: center;
+        }
+        .info-box-7 img {
+            width: 115px;
+            height: 115px;
+        }
+        .info-box-8{
+            width: 315px;
+            height: 315px;
+            background-color: darkgreen;
+            position: absolute;
+            top: 2055px;
+            left: 1750px;
+            padding: 15px;
+            border: 10px solid white;
+            text-align: center;
+        }
+        .info-box-8 img {
+            width: 115px;
+            height: 115px;
+        }
+        .info-box-9{
+            width: 315px;
+            height: 315px;
+            background-color: darkgreen;
+            position: absolute;
+            top: 2330px;
+            left: 450px;
+            padding: 15px;
+            border: 10px solid white;
+            text-align: center;
+        }
+        .info-box-9 img {
+            width: 100px;
+            height: 100px;
+        }
+        .info-box-10{
+            width: 315px;
+            height: 315px;
+            background-color: darkgreen;
+            position: absolute;
+            top: 2580px;
+            left: 1750px;
+            padding: 15px;
+            border: 10px solid white;
+            text-align: center;
+        }
+        .info-box-10 img {
+            width: 85px;
+            height: 85px;
+        }
+        h2 {
+            text-align: center;
+            color: white;
+            font-size: 30px;
+        }
+        p {
+            text-align: left;
+            color: white;
+            font-size: 20px;
+        }
+        .footprint1{
+            position: absolute;
+            top: 305px;
+            left: 865px;
+            transform: rotate(23deg);
+        }
+        .footprint1 img {
+            width: 825px;
+            height: 175px;
+        }
+        .footprint2{
+            position: absolute;
+            top: 595px;
+            left: 870px;
+            transform: rotate(-23deg);
+        }
+        .footprint2 img {
+            width: 825px;
+            height: 175px;
+        }
+        .footprint3{
+            position: absolute;
+            top: 880px;
+            left: 865px;
+            transform: rotate(23deg);
+        }
+        .footprint3 img {
+            width: 825px;
+            height: 175px;
+        }
+        .footprint4{
+            position: absolute;
+            top: 1170px;
+            left: 865px;
+            transform: rotate(-23deg);
+        }
+        .footprint4 img {
+            width: 825px;
+            height: 175px;
+        }
+        .footprint5{
+            position: absolute;
+            top: 1455px;
+            left: 870px;
+            transform: rotate(23deg);
+        }
+        .footprint5 img {
+            width: 825px;
+            height: 175px;
+        }
+        .footprint6{
+            position: absolute;
+            top: 1745px;
+            left: 865px;
+            transform: rotate(-23deg);
+        }
+        .footprint6 img {
+            width: 825px;
+            height: 175px;
+        }
+        .footprint7{
+            position: absolute;
+            top: 2030px;
+            left: 870px;
+            transform: rotate(23deg);
+        }
+        .footprint7 img {
+            width: 825px;
+            height: 175px;
+        }
+        .footprint8{
+            position: absolute;
+            top: 2320px;
+            left: 865px;
+            transform: rotate(-23deg);
+        }
+        .footprint8 img {
+            width: 825px;
+            height: 175px;
+        }
+        .footprint9{
+            position: absolute;
+            top: 2605px;
+            left: 870px;
+            transform: rotate(23deg);
+        }
+        .footprint9 img {
+            width: 825px;
+            height: 175px;
+        
+        }
+        .bottom-message {
+            text-align: center;
+            color: white;
+            position: absolute;
+            top: 2900px;
+            left: 0px;
+            font-size: 125px;
+            padding: 50px;
+            width: 2515px;
+            height: 80px;
+        }
